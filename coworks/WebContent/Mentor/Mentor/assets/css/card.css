@@ -1,0 +1,60 @@
+@charset "EUC-KR";
+/**
+* Template Name: Mentor - v4.7.0
+* Template URL: https://bootstrapmade.com/mentor-free-education-bootstrap-theme/
+* Author: BootstrapMade.com
+* License: https://bootstrapmade.com/license/
+*/
+ 
+ body{
+  width: 980px;
+  height: 948px;
+
+ }
+ 
+/* Card */
+.card {
+
+  margin-bottom: 30px;
+  border: none;
+  border-radius: 5px;
+  box-shadow: 0px 0 30px rgba(1, 41, 112, 0.1);
+}
+
+.card-header, .card-footer {
+  border-color: #ebeef4;
+  background-color: #fff;
+  color: #798eb3;
+  padding: 15px;
+}
+
+.card-title {
+  padding: 20px 0 15px 0;
+  font-size: 18px;
+  font-weight: 500;
+  color: #07b53b;
+  font-family: "Raleway", sans-serif;
+}
+.card-title span {
+  color: #899bbd;
+  font-size: 15px;
+  font-weight: 600;
+}
+.card-body {
+width: 1000px;
+  height: 948px;
+  padding: 20px 20px 20px 20px;
+}
+
+.card-img-overlay {
+  background-color: rgba(255, 255, 255, 0.6);
+}
+
+#aa{
+	padding-top : 25px;
+}
+
+.modal-body,row mb-3,p-3 col-sm-1{
+	align-item: center;
+}
+   
